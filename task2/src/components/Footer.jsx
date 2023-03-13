@@ -12,7 +12,7 @@ import '../@media/@footer.css'
 function Footer() {
     return(
         <Container className='footer' fluid>
-            <Container style={{width : '1140px'}}>
+            <Container style={{maxWidth : '1140px'}}>
                 <div className='about'>
                     <div className='about__list'>
                         <h4>О КОМПАНИИ</h4>

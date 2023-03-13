@@ -5,12 +5,13 @@
   .footer .about {
     display: flex;
     flex-direction: column;
+    width: 45%;
     padding: 41px 0 0 0;
   }
   .footer .about__menu {
     display: flex;
     justify-content: space-between;
-    width: 350px;
+    max-width: 350px;
   }
   .footer .about__menu-list h4 {
     color: #656566;

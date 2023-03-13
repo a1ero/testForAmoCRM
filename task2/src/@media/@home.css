@@ -1,6 +1,7 @@
 @media (min-width: 320px) and (max-width: 575px) {
   .home {
     display: block;
+    max-width: 100%;
     margin-top: 40px;
   }
   .home__info h3 {
@@ -14,6 +15,7 @@
     flex-direction: column;
   }
   .home__advice-title {
+    max-width: 257px;
     float: left;
     text-align: left;
   }

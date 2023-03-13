@@ -1,4 +1,8 @@
 @media (min-width: 320px) and (max-width: 575px) {
+  .App {
+    max-width: 100%;
+    height: 100%;
+  }
   .App__background {
     background-image: url('/src/images/purpleLight.svg'), url('/src/images/@purple.svg'), url('/src/images/redSmall.svg'), url('/src/images/redLight.svg');
     background-repeat: no-repeat;
