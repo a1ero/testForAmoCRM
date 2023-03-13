@@ -1,0 +1,32 @@
+.header {
+  width: 1140px;
+  height: 73px;
+  padding-top: 30px;
+}
+.logo {
+  margin: 30px 0 0 0;
+}
+.logo__text {
+  font-size: 10px;
+  color: #E4E5EA;
+}
+.important {
+  width: 503px;
+}
+.important__list {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  color: #E4E5EA;
+}
+.contacts {
+  color: #E4E5EA;
+  font-size: 16px;
+}
+.network {
+  display: flex;
+  justify-content: space-between;
+}
+.network__list {
+  margin-left: 32px;
+}
